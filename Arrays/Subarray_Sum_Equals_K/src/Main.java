@@ -38,5 +38,7 @@ public class Main {
         final Solution solution = new Solution();
 
         System.out.println(solution.subarraySum(nums, k));
+
+        scanner.close();
     }
 }

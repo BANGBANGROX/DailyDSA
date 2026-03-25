@@ -26,5 +26,7 @@ public class Main {
         }
 
         System.out.println(new Solution().check(nums));
+
+        scanner.close();
     }
 }
